@@ -3,6 +3,8 @@ If the current state of PvZ Heroes' localization drives you mad, you've come to 
 This Mod will be updated regulary (if PopCap updated the game regularly), so don't ever worry about it being outdated!
 
 ## Here's the full changelog:
+# PvZ Heroes Extra 1.0
+
 // CARD SPECIFIC CHANGES \\
 
 --Fixed Nibble's ability description to properly say that it only conjured Gourmets up to 3 cost
@@ -99,3 +101,17 @@ ________________________________________________________________________________
 
 
 --Added additional info to Zombie's Splash Damage link about its interaction with Frenzy
+
+
+
+
+
+
+# PvZ Heroes Extra 1.1
+
+// CARD SPECIFIC CHANGES \\
+
+--ACTUALLY added Team-Up link to Bean Counter
+>Additionally made the Weenie Beanies a link
+
+--Fixed a text error in my newly made Water Balloons ability description
