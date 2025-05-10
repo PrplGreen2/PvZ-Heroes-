@@ -1,0 +1,8 @@
+PvZ Heroes Extra Changelog 1.1
+
+// CARD SPECIFIC CHANGES \\
+
+--ACTUALLY added Team-Up link to Bean Counter
+	--Additionally made the Weenie Beanies a link
+
+--Fixed a text error in my newly made Water Balloons ability description
